@@ -1,4 +1,27 @@
-# title(){return this.options.title||this.options.name}
+# Scrimba - Personal Webpage
+
+This is an exercise made on Scrimba to help you improve your coding skills by building realistic projects. 
+
+## Table of contents
+
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+- [My process](#my-process)
+  - [Built with](#built-with)
+- [Supporting Scrimba](#supporting-scrimba)
+
+## Overview
+
+### Screenshot
+![](images/Screenshot-personal-web.png)
+
+## My process
+
+## Built with
+
+- HTML
+- CSS custom properties
+- JS
 
 ## Supporting Scrimba
 
@@ -14,3 +37,4 @@ in a while. So if you've ever wanted to "give back" to Scrimba, you can do that 
 	It would also mean the world to us if you share the courses.  
 
 Happy Coding!
+
