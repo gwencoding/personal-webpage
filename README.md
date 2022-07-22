@@ -13,7 +13,7 @@ This is an exercise made on Scrimba to help you improve your coding skills by bu
 ## Overview
 
 ### Screenshot
-![](images/Screenshot-personal-web.png)
+![](./Screenshot-personal-web.png)
 
 ## My process
 
